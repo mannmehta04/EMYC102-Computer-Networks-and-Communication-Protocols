@@ -5,7 +5,6 @@ Welcome to the central repository for **EMYC102**. This repository hosts all off
 ## 📌 Quick Navigation
 - [Assignments & Submissions](#-assignments--submissions)
 - [Course Guides & Material](#-course-guides--material)
-- [Repository Structure](#-repository-structure)
 
 ## 📝 Assignments & Submissions
 
@@ -13,8 +12,8 @@ All coursework must be submitted via the designated Google Forms below. Please e
 
 | Assignment | Topic Focus | Lab Guide | Submission Link | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Assignment 1** | Hubs, Switches & Collision Domains | [🔗 Submit via Google Form](https://forms.gle/XxyjidipzSkZGEhX7) | 🟢 Active |
-| **Assignment 2** | Network Topologies & Router Config | [🔗 Submit via Google Form](https://forms.gle/K5vKoc9maXpjaxmR8) | 🟢 Active |
+| **Assignment 1** | **[Hubs, Switches & Collision Domains](./Assignment_1.pdf)** | [🔗 Submit via Google Form](https://forms.gle/XxyjidipzSkZGEhX7) | 🟢 Active |
+| **Assignment 2** | **[Network Topologies & Router Config](./Assignment_2.pdf)** | [🔗 Submit via Google Form](https://forms.gle/K5vKoc9maXpjaxmR8) | 🟢 Active |
 
 > **Note:** Submission forms automatically close at 11:59 PM on their respective due dates. Late submissions require prior approval.
 
@@ -22,10 +21,3 @@ All coursework must be submitted via the designated Google Forms below. Please e
 
 This repository contains reference materials for our practical sessions. You can find them in the `/assignment` directory:
 *   **[Packet Tracer Basics](./cisco_packet_tracer_guide.pdf):** Basics regarding Cisco Packet Tracer and informative guide .
-
-## 📂 Repository Structure
-
-```text
-EMYC102-Computer-Networks-and-Communication-Protocols/
-├── assignments/         # Problem statements and scenario questions
-└── README.md            # You are here
