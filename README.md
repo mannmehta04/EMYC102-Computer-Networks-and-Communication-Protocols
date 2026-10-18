@@ -14,8 +14,8 @@ All coursework must be submitted via the designated Google Forms below. Please e
 | :--- | :--- | :--- |
 | **Assignment 1** | **[Hubs, Switches & Collision Domains](./Assignment_1.pdf)** | [🔗 Submit via Google Form](https://forms.gle/XxyjidipzSkZGEhX7) |
 | **Assignment 2** | **[Network Topologies & Router Config](./Assignment_2.pdf)** | [🔗 Submit via Google Form](https://forms.gle/K5vKoc9maXpjaxmR8) |
-| **Assignment 3** | **[Router-Based Communication](./Assignment_3.pdf)** | [🔗 Submit via Google Form]() |
-| **Assignment 4** | **[Subnet Routing](./Assignment_4.pdf)** | [🔗 Submit via Google Form]() |
+| **Assignment 3** | **[Router-Based Communication](./Assignment_3.pdf)** | [🔗 Submit via Google Form](https://forms.gle/1wKsK9iEUNF8Z7C6A) |
+| **Assignment 4** | **[Subnet Routing](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
 
 > **Note:** Submission forms automatically close at 11:59 PM on their respective due dates. Late submissions require prior approval.
 
