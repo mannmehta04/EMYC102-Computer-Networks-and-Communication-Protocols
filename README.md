@@ -17,8 +17,6 @@ All coursework must be submitted via the designated Google Forms below. Please e
 | **Assignment 3** | **[Router-Based Communication](./Assignment_3.pdf)** | [🔗 Submit via Google Form](https://forms.gle/1wKsK9iEUNF8Z7C6A) |
 | **Assignment 4** | **[Subnet Routing](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
 
-> **Note:** Submission forms automatically close at 11:59 PM on their respective due dates. Late submissions require prior approval.
-
 ## 📚 Course Guides & Material
 
 This repository contains reference materials for our practical sessions:
