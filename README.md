@@ -16,6 +16,7 @@ All coursework must be submitted via the designated Google Forms below. Please e
 | **Assignment 2** | **[Network Topologies & Router Config](./Assignment_2.pdf)** | [🔗 Submit via Google Form](https://forms.gle/K5vKoc9maXpjaxmR8) |
 | **Assignment 3** | **[Router-Based Communication](./Assignment_3.pdf)** | [🔗 Submit via Google Form](https://forms.gle/1wKsK9iEUNF8Z7C6A) |
 | **Assignment 4** | **[Subnet Routing](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
+| **Assignment 5** | **[Access Control Lists - I](./Assignment_5.pdf)** | [🔗 Submit via Google Form]() |
 
 ## 📚 Course Guides & Material
 
