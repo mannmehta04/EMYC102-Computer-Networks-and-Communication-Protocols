@@ -14,14 +14,15 @@ All coursework must be submitted via the designated Google Forms below. Please e
 | :--- | :--- | :--- |
 | **Assignment 1** | **[Hubs, Switches & Collision Domains](./Assignment_1.pdf)** | [🔗 Submit via Google Form](https://forms.gle/XxyjidipzSkZGEhX7) |
 | **Assignment 2** | **[Network Topologies & Router Config](./Assignment_2.pdf)** | [🔗 Submit via Google Form](https://forms.gle/K5vKoc9maXpjaxmR8) |
-| **Assignment 3** | **[Router-Based Communication](./Assignment_3.pdf)** | [🔗 Submit via Google Form](https://forms.gle/1wKsK9iEUNF8Z7C6A) |
-| **Assignment 4** | **[Subnet Routing](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
-| **Assignment 5** | **[Access Control Lists - I](./Assignment_5.pdf)** | [🔗 Submit via Google Form]() |
+| **Assignment 3** | **[Working with VLANs - I](./Assignment_3.pdf)** | [🔗 Submit via Google Form](https://forms.gle/1wKsK9iEUNF8Z7C6A) |
+| **Assignment 4** | **[Working with VLANs - II](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
+| **Assignment 5** | **[Access Control Lists - I](./Assignment_5.pdf)** | [🔗 Submit via Google Form](https://forms.gle/YsMUpqmbpG9Bwe528) |
 
 ## 📚 Course Guides & Material
 
 This repository contains reference materials for our practical sessions:
 
 * **[Packet Tracer Basics](./cisco_packet_tracer_guide.pdf):** Basics regarding Cisco Packet Tracer and informative guide.
+* **[Lab Networking Guide](./lab_guide.pdf):** Covers basics to step by step guide on how to work with tasks assign during lab hours.
 * **[Data Communications and Networking By Behrouz A. Forouzan.pdf](https://github.com/litivps/Computer-Engineering-Reference-Books/blob/master/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf):** Reference book useful for Computer Network Basics.
 * **[Cisco Packet Tracer](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html):** Cisco Packet Tracer Download Link.
