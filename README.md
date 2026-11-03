@@ -17,6 +17,7 @@ All coursework must be submitted via the designated Google Forms below. Please e
 | **Assignment 3** | **[Working with VLANs - I](./Assignment_3.pdf)** | [🔗 Submit via Google Form](https://forms.gle/1wKsK9iEUNF8Z7C6A) |
 | **Assignment 4** | **[Working with VLANs - II](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
 | **Assignment 5** | **[Access Control Lists - I](./Assignment_5.pdf)** | [🔗 Submit via Google Form](https://forms.gle/YsMUpqmbpG9Bwe528) |
+| **Assignment 6** | **[Access Control Lists - II](./Assignment_6.pdf)** | [🔗 Submit via Google Form](https://forms.gle/qXkQuWyfZu6nKydQA) |
 
 ## 📚 Course Guides & Material
 
