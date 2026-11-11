@@ -18,12 +18,13 @@ All coursework must be submitted via the designated Google Forms below. Please e
 | **Assignment 4** | **[Working with VLANs - II](./Assignment_4.pdf)** | [🔗 Submit via Google Form](https://forms.gle/zFchTofpvyszgGt96) |
 | **Assignment 5** | **[Access Control Lists - I](./Assignment_5.pdf)** | [🔗 Submit via Google Form](https://forms.gle/YsMUpqmbpG9Bwe528) |
 | **Assignment 6** | **[Access Control Lists - II](./Assignment_6.pdf)** | [🔗 Submit via Google Form](https://forms.gle/qXkQuWyfZu6nKydQA) |
+| **Assignment 7** | **[Dynamic Host Control Protocol](./Assignment_7.pdf)** | [🔗 Submit via Google Form](https://forms.gle/kQEtr5cfYHamfHc47) |
 
 ## 📚 Course Guides & Material
 
 This repository contains reference materials for our practical sessions:
 
 * **[Packet Tracer Basics](./cisco_packet_tracer_guide.pdf):** Basics regarding Cisco Packet Tracer and informative guide.
-* **[Lab Networking Guide](./lab_guide.pdf):** Covers basics to step by step guide on how to work with tasks assign during lab hours.
+* **[Lab Networking Guide](./guide.pdf):** Covers basics to step by step guide on how to work with tasks assign during lab hours.
 * **[Data Communications and Networking By Behrouz A. Forouzan.pdf](https://github.com/litivps/Computer-Engineering-Reference-Books/blob/master/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf):** Reference book useful for Computer Network Basics.
 * **[Cisco Packet Tracer](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html):** Cisco Packet Tracer Download Link.
